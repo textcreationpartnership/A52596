@@ -1,0 +1,511 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation to the taking of the Solemne league and covenant for reformation and defence of religion, the hononr [sic] and happinesse of the king, and the peace and safety of the three kingdomes of England, Scotland, and Ireland</title>
+            <author>Nye, Philip, 1596?-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52596</idno>
+            <idno type="STC">Wing N1493</idno>
+            <idno type="STC">ESTC R181127</idno>
+            <idno type="EEBO-CITATION">12567310</idno>
+            <idno type="OCLC">ocm 12567310</idno>
+            <idno type="VID">63366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1022:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation to the taking of the Solemne league and covenant for reformation and defence of religion, the hononr [sic] and happinesse of the king, and the peace and safety of the three kingdomes of England, Scotland, and Ireland</title>
+                  <author>Nye, Philip, 1596?-1672.</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>For Ralph Smith ...,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from p. 8.</note>
+                  <note>"A Solemn league and covenant for reformation, and defence of religion, the honour and happiness of the king ...": (p. 9-20.)</note>
+                  <note>"The Declaration of the kingdoms of England and Scotland, joyned in arms for the vindication and defence of their religion, liberties, and laws, against the popish, prelaticall, and malignant party, by the honorable Houses of the Parliament in England ...": (p. 21-32.)</note>
+                  <note>"A Declaration of the kingdome of Scotalnd, for information and satisfaction to their brethern of England, concerning the present expedition into England.": p. 33-40:</note>
+                  <note>Attributed to Nye by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643)</term>
+               <term>Great Britain --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:63366:1" rendition="simple:additions"/>
+                  <head>AN EXHORTATION TO the taking of the Solemne League and Covenant, FOR REFORMATION AND Defence of Religion, the Honour and happineſſe of the King, and the Peace and ſafety of the three King<g ref="char:EOLhyphen"/>domes of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">I</seg>F the power of Religion, or ſo<g ref="char:EOLhyphen"/>lid Reaſon, if Loyalty to the King, and piety to their Na<g ref="char:EOLhyphen"/>tive Country, or love to them<g ref="char:EOLhyphen"/>ſelves, and naturall affection to their poſterity, if the Example of men touched with a deep ſenſe of all theſe, or extraordi<g ref="char:EOLhyphen"/>nary ſucceſſe from God thereupon, can awaken an embroyled bleeding remnant to imbrace the ſove<g ref="char:EOLhyphen"/>raigne,
+<pb n="2" facs="tcp:63366:2"/>and onely meanes of their recovery, there can be no doubt but this Solemne League and Co<g ref="char:EOLhyphen"/>venant will find whereſoever it ſhall bee tende<g ref="char:EOLhyphen"/>red, a people ready to entertaine it with all cheere<g ref="char:EOLhyphen"/>fulneſſe and duty.</p>
+                  <p>And were it not commended to the Kingdom by the concurrent encouragement of the Honourable Houſes of Parliament, the Aſſembly of Divines, the renowned City of <hi>London,</hi> multitudes of other per<g ref="char:EOLhyphen"/>ſons of eminent rank and quality in this Nation, and the whole Body of <hi>Scotland,</hi> who have all willingly ſworn and ſubſcribed it, with rejoycing at the Oath, ſo graciouſly ſeconded from Heaven already, by blaſting the Counſels, and breaking the power of the Enemy more than ever; yet it goeth forth in its own ſtrength, with ſuch convincing evidence of e<g ref="char:EOLhyphen"/>quity, Truth and Righteouſneſſe, as may raiſe in all (not wilfully ignorant, or miſerably ſeduced) infla<g ref="char:EOLhyphen"/>med affections to joyne with their Brethren in this happy Bond, for putting an end to the preſent miſe<g ref="char:EOLhyphen"/>ries, and for ſaving both of King and Kingdom from utter ruine now ſo ſtrongly and openly la<g ref="char:EOLhyphen"/>boured by the Popiſh faction, and ſuch as have been bewitched and beſotted by that viperous and blou<g ref="char:EOLhyphen"/>dy generation.</p>
+                  <p>For what is there almoſt in this Covenant, which was not for ſubſtance either expreſſed or manifeſtly included in that ſolemne <hi>Proteſtation</hi> of <hi>May</hi> 5. 1641. wherein the whole Kingdome ſtands inga<g ref="char:EOLhyphen"/>ged untill this day? The ſinfull neglect whereof,
+<pb n="3" facs="tcp:63366:2"/>doth (as we may juſtly feare) open one floodgate the more to let in all theſe calamities upon the Kingdome, and caſt upon it a neceſſity of renewing Covenant, and of entring into this.</p>
+                  <p>If it be ſaid, the extirpation of Prelacy, to wit, the whole Hierarchicall Government (ſtanding, as yet, by the knowne Lawes of the Kingdome) is new, and unwarrantable: This will appear to all impartiall underſtandings, (though new) to be not onely warrantable, but neceſſary; if they con<g ref="char:EOLhyphen"/>ſider (to omit what ſome ſay, that this Govern<g ref="char:EOLhyphen"/>ment was never formally eſtabliſhed by any Lawes of this Kingdome at all) that the very life and ſoule thereof is already taken from it by an Act paſſed this preſent Parliament, ſo as (like <hi>Jezabels</hi> Carcaſſe, of which no more was left but the skull, the feete, and the palmes of her hands) nothing of juriſdiction remaines but what is precarious in them, and vo<g ref="char:EOLhyphen"/>luntary in thoſe who ſubmit unto them: that their whole Government is at beſt but a humane conſtitution, and ſuch as is found and adjudged by both Houſes of Parliament, (in which, the judge<g ref="char:EOLhyphen"/>ment of the whole Kingdom is involved and De<g ref="char:EOLhyphen"/>clared) not onely very prejudiciall to the Civill State, but a great hinderance alſo to the perfect Re<g ref="char:EOLhyphen"/>formation of Religion; Yea, who knoweth it not to bee too much an enemy there unto, and deſtru<g ref="char:EOLhyphen"/>ctive to the power of godlineſſe, and pure admini<g ref="char:EOLhyphen"/>ſtration of the Ordinances of Chriſt: which moved the well-affected, almoſt throughout this King<g ref="char:EOLhyphen"/>dom,
+<pb n="4" facs="tcp:63366:3"/>long ſince to Petition this Parliament (as hath been deſired before, even in the Reigne of Queen <hi>Elizabeth,</hi> and of King <hi>James</hi>) for a to<g ref="char:EOLhyphen"/>tall abolition of the ſame. Nor is any man hereby bound to offer any violence to their perſons, but only, in his place and calling, to indevour their ex<g ref="char:EOLhyphen"/>tirpation in a lawful way.</p>
+                  <p>And as for thoſe Clergy-men, who pretend that they (above all others) cannot Covenant to ex<g ref="char:EOLhyphen"/>tirpate that Government, becauſe they have (as they ſay) taken a ſolemne Oath to obey the Bi<g ref="char:EOLhyphen"/>ſhops, <hi>in licitis et honeſtis:</hi> they can tell, if they pleaſe, that they that have ſworn obedience to the Laws of the Land, are not thereby prohibited from indevouring by all lawfull meanes the aboli<g ref="char:EOLhyphen"/>tion of thoſe Lawes, when they prove inconveni<g ref="char:EOLhyphen"/>ent or miſchievous. And if yet there ſhould any Oath be found into which any Miniſters or others have entred, not warranted by the Laws of God and the Land, in this caſe, they muſt teach them<g ref="char:EOLhyphen"/>ſelves and others, that ſuch Oathes call for repen<g ref="char:EOLhyphen"/>tance, not pertinacy in them.</p>
+                  <p>If it be pleaded that this Covenant croſſeth the Oaths of <hi>Supremacy</hi> and <hi>Allegiance;</hi> there can be nothing farther from truth: for, this Covenant binds all, and more ſtrongly engageth them to <hi>pre<g ref="char:EOLhyphen"/>ſerve and defend the Kings Majeſties Perſon, and au<g ref="char:EOLhyphen"/>thority in the preſervation and defence of the true Reli<g ref="char:EOLhyphen"/>gion and Liberties of the Kingdomes.</hi>
+                  </p>
+                  <p>That ſcruple, that this is done without the Kings
+<pb n="5" facs="tcp:63366:3"/>conſent, will ſoone be removed, if it be remem<g ref="char:EOLhyphen"/>bred that the <hi>Proteſtation</hi> of the fifth of <hi>May</hi> be<g ref="char:EOLhyphen"/>fore mentioned, was in the ſame manner voted and executed by both Houſes, and after (by order of one Houſe alone) ſent abroad to all the King<g ref="char:EOLhyphen"/>dome, his Majeſty not excepting againſt it, or gi<g ref="char:EOLhyphen"/>ving any ſtop to the taking of it, albeit he was then reſident in Perſon at <hi>Whitehall.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Erra 10. Neh. 9.</note>Thus <hi>Ezra</hi> and <hi>Nehemiah</hi> drew all the people into a Covenant, without any ſpeciall Commiſſion ſtom the Perſian Monarchs (then their Sovereigns) ſo to doe, albeit they were not free Subjects, but Vaſſals, and one of them the meniall Servant of <hi>Artaxerxes,</hi>
+                     <note place="margin">Neh. 1.</note> then by Conqueſt King of <hi>Judah</hi> al<g ref="char:EOLhyphen"/>ſo.</p>
+                  <p>Nor hath this doctrine or practiſe beene deemed ſeditious or unwarrantable by the Princes that have ſate upon the Engliſh Throne, but juſtified and de<g ref="char:EOLhyphen"/>fended by Queene <hi>Elizabeth</hi> of bleſſed memory, with the expence of much Treaſure and Noble blood, in the united Provinces of the Netherlands combined not only without, but againſt the unjuſt violence of <hi>Philip</hi> of Spaine; King <hi>James</hi> follow<g ref="char:EOLhyphen"/>ed her ſteps, ſo farre as to approve their onion, and to enter into league with them as free States; which is continued by his Majeſtie now reigning, onto this day; who both by his expedition for reliefe of <hi>Roebel</hi> in France, and his ſtrict confedera<g ref="char:EOLhyphen"/>cy with the Prince of <hi>Orange,</hi> and the States Gene<g ref="char:EOLhyphen"/>rall, notwithſtanding all the importunitie of Spaine
+<pb n="6" facs="tcp:63366:4"/>to the contrary, hath ſet to his Seale that all that had beene done by his Royall Anceſtors; in main<g ref="char:EOLhyphen"/>tenance of thoſe who had ſo engaged and combi<g ref="char:EOLhyphen"/>ned themſelves, was juſt and warrantable.</p>
+                  <p>And what had become of the Religion, Lawes, and Liberties of our ſiſter Nation of <hi>Scotland,</hi> had they not entred into ſuch a ſolemne League and Covenant at the beginning of the late troubles there? which courſe, however it was at firſt, by the Popiſh and Prelatick Projectors, repreſented to his Majeſtie as an offence of the higheſt nature, juſtly deſerving chaſtiſement by the fury of a pu<g ref="char:EOLhyphen"/>iſſant Army; yet when the matter came afterwards in coole blood to bee debated, firſt by Commiſſio<g ref="char:EOLhyphen"/>ners of both kingdomes, and then in open Parlia<g ref="char:EOLhyphen"/>ment here, (when all thoſe of either Houſe, who are now engaged at <hi>Oxford,</hi> were preſent in Par<g ref="char:EOLhyphen"/>liament, and gave their Votes, therein) it was found, adjudged and declared by the King in Parliament, that our deare Brethren of <hi>Scotland</hi> had done no<g ref="char:EOLhyphen"/>thing, but what became loyall and obedient Sub<g ref="char:EOLhyphen"/>jects, and were thereupon by Act of Parliament publikely righted in all the Churches of this King<g ref="char:EOLhyphen"/>dome, where they had beene defamed.</p>
+                  <p>Therefore however ſome men, hoodwinkt and blinded by the artifices of thoſe Jeſuiticall Engi<g ref="char:EOLhyphen"/>neers, who have long conſpired to ſacrifice our Re<g ref="char:EOLhyphen"/>ligion to the Idolatry of Rome, our Lawes, Liber<g ref="char:EOLhyphen"/>ties and perſons to arbitrary ſlavery, and our eſtates to their inſatiable avarice, may poſſibly bee deterred
+<pb n="7" facs="tcp:63366:4"/>and amuſed with high threats and Declarations, flying up and downe on the wings of the Royall Name and Countenance (now captivated and pro<g ref="char:EOLhyphen"/>ſtituted to ſerve all their luſts) to proclaime all Re<g ref="char:EOLhyphen"/>bells and Traytors who take this Covenant; yet let no faithfull Engliſh heart bee afraid to joyne with our Brethren of all the three Kingdomes in this ſolemne League, as ſometimes the men of <hi>Iſrael</hi> (although under another King) did with the men of <hi>Judah,</hi>
+                     <note place="margin">2 Chron. 30.</note> at the invitation of <hi>Hezekiah.</hi>
+                  </p>
+                  <p>What though thoſe tongues ſet on fire by Hell doe raile and threaten? That God who was pleaſed to cleare up the innocency of <hi>Mordecai</hi> and the Jewes againſt all the malitious aſperſions of wicked <hi>Haman</hi> to his and their Soveraigne, ſo as all his plotting produced but this effect,<note place="margin">Eſth. 9.</note> that <hi>when the Kings commandement and decree drew neare to bee put in exe<g ref="char:EOLhyphen"/>cution, and the enemies of the Jewes hoped to have power over them, it was turned to the contrary; and the Jewes had rule over them that hated them, and laid hands on ſuch as ſought their hurt, ſo as no man could withſtand them;</hi> and that ſame God, who but even as yeſterday, vouchſafed to diſperſe and ſcatter thoſe dark clouds &amp; fogs which overſhadowed that Loy<g ref="char:EOLhyphen"/>all and Religious Kingdome of <hi>Scotland,</hi> and to make they righteouſneſſe to ſhine as cleare as the Sunne at noone day in the very eyes of their greateſt enemies, will doubtleſſely ſtand by all thoſe who with ſingleneſſe of heart, and a due ſenſe of their owne ſinnes, and a neceſſitie of reformati<g ref="char:EOLhyphen"/>on,
+<pb n="8" facs="tcp:63366:5"/>ſhall now enter into an everlaſting Covenant with the Lord, never to bee forgotten, to put an end to all thoſe unhappy and unnaturall breaches betweene the King and ſuch as are faithfull in the Land; cauſing their <hi>righteouſneſſe and praiſe to ſpring forth before all the Nations,</hi> to the terror and con<g ref="char:EOLhyphen"/>fuſion of thoſe men of blood, the confederate ene<g ref="char:EOLhyphen"/>mies of God and the King, who have long com<g ref="char:EOLhyphen"/>bined, and have now raked together the dregs and ſcumme of many Kingdomes, to bury all the glory, honour and libertie of this Nation in the eternall grave of diſhonour and deſtruction.</p>
+               </div>
+            </body>
+            <back>
+               <div type="license">
+                  <head>Die Veneris 9. Februar. 1643.</head>
+                  <p>AN Exhortation touching the taking of the <hi>Solemn League and Covenant,</hi> and for ſatisfying of ſuch Scruples, as may ariſe in the taking of it, was this day read the firſt and ſecond time; And by Vote upon the Queſtion aſſented unto, and Ordered to bee forthwith Printed.</p>
+                  <closer>
+                     <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+                  </closer>
+               </div>
+               <div type="colophon">
+                  <p>Printed at <hi>London</hi> for <hi>Ralph Smith,</hi> at the ſigne of the Bible in <hi>Cornhill,</hi> neere the <hi>Royall Exchange.</hi> 1644.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="9" facs="tcp:63366:5"/>
+                  <head>A SOLEMN League and Covenant, FOR Reformation, and Defence of Religion, The Honour and Happineſſe of the KING, And the Peace &amp; Safety of the three Kingdoms OF <hi>England, Scotland,</hi> and <hi>Jreland.</hi>
+                  </head>
+                  <p>WE Noblemen, Barons, Knights, Gentlemen, Citizens, Burgeſſes, Miniſters of the Goſpel, and Commons of all ſorts in the kingdoms of <hi>England, Scotland</hi> and <hi>Ireland,</hi> by the Providence of God li<g ref="char:EOLhyphen"/>ving under one King, and being of one Reformed Religion, halving before our eyes the glory of God, and the advancement of the Kingdome of our Lord and Saviour Ieſus Chriſt, the honour and happineſs of the Kings Majeſtie, and His Poſterity, and the true publike Liberty, Safety and Peace of the Kingdoms, wherein every ones private condition is included, and
+<pb n="10" facs="tcp:63366:6"/>calling to minde the treacherous and bloody plots, Con<g ref="char:EOLhyphen"/>ſpiracies, Attempts, and practices of the Enemies of God, againſt the true religion, and profeſſors thereof in all places, eſpecially in theſe three Kingdoms ever ſince the reformation of religion, and how much their rage, power and preſumption, are of late, and at this time increaſed and exerciſed; whereof the deplorable eſtate of the Church and Kingdom of <hi>Ireland,</hi> the di<g ref="char:EOLhyphen"/>ſtreſſed eſtate of the Church &amp; Kingdom of <hi>England,</hi> and the dangerous eſtate of the Church and Kingdom of Scotland, are preſent and publike Teſtimonies; We have now at laſt, (after other meanes of Supplication, Remonſtrance, Proteſtations, and Sufferings) for the preſervation of our ſelves and our religion, from utter ruine and Deſtruction, according to the commendable practice of theſe Kingdoms in former times, and the Ex<g ref="char:EOLhyphen"/>ample of Gods people in other Nations; after mature de<g ref="char:EOLhyphen"/>liberation, reſolved and determined to enter into a mu<g ref="char:EOLhyphen"/>tuall and ſolemne League and Covenant, wherein we all ſubſcribe, and each one of as for himſelf, with our hands lifted up to the moſt high God, do ſwear:</p>
+                  <floatingText xml:lang="eng" type="treaty">
+                     <body>
+                        <p>
+                           <label>I.</label> 
+                           <hi>THat we ſhall ſincerely, really and conſtantly, through the Grace of God, endeavour in our ſeverall places and callings, the preſervation of the Reformed Religion in the Church of <hi>Scotland,</hi> in doctrine, Worſhip, Diſci<g ref="char:EOLhyphen"/>pline
+<pb n="11" facs="tcp:63366:6"/>and Government, againſt our common Enemies, the Reformation of Religion in the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> in Doctrine, Worſhip, Diſcipline and Go<g ref="char:EOLhyphen"/>vernment, according to the Word of God, and the Exam<g ref="char:EOLhyphen"/>ple of the beſt Reformed Churches; And ſhall indeavour to bring the Churches of God in the three Kingdoms, to the neereſt conjunction and Uniformity in Religion, Con<g ref="char:EOLhyphen"/>feſſion of Faith, Form of Church-Government, Directo<g ref="char:EOLhyphen"/>ry for Worſhip and Catechizing; That we and our po<g ref="char:EOLhyphen"/>ſterity after us may as Brethren live in Faith and Love, and the Lord may delight to dwell in the middeſt of us.</hi>
+                        </p>
+                        <p>
+                           <label>II.</label> 
+                           <hi>That we ſhall in like manner, without reſpect of per<g ref="char:EOLhyphen"/>ſons, indeavour the extirpation of Popery, Prelacy, (that is, Church-Government, by Arch-Biſhops, Biſhops, their Chancellours and Commiſſaries, Deanes, Deanes and Chapters, Archdeacons, and all other Eccleſiaſticall Of<g ref="char:EOLhyphen"/>ficers depending on that Hirarchy) Superſtition, Hereſie, Schiſme, Prophaneneſſe, and whatſoever ſhall be found to be contrary to found Doctrine, and the power of God<g ref="char:EOLhyphen"/>lineſſe; leſt we partake in other mens ſins, and thereby be in danger to receive of their plagues, and that the Lord may be one, and his Name one in the three Kingdoms.</hi>
+                        </p>
+                        <p>
+                           <label>III.</label> 
+                           <hi>We ſhall with the ſame ſincerity, reallity and conſtancy, in our ſeverall Vocations, endeavour with our eſtates and lives, mutually to preſerve the Rights and Priviledges of the Parliaments, and the Liberties of the Kingdoms, and to preſerve and defend the Kings Majeſties perſon and authority, in the preſervation and defence of the true Re<g ref="char:EOLhyphen"/>ligion, and Liberties of the Kingdoms, that the world may bear witneſſe with our conſciences of our Loyaltie, and
+<pb n="12" facs="tcp:63366:7"/>that we have no thoughts or intentions to diminiſh His Majeſties juſt power and greatneſſe.</hi>
+                        </p>
+                        <p>
+                           <label>IIII.</label> 
+                           <hi>We ſhall alſo with all faithfulneſſe endeavour the diſ<g ref="char:EOLhyphen"/>covery of all ſuch as have been, or ſhall be Incendia<g ref="char:EOLhyphen"/>ries, Malignants, or evill Inſtruments, by hindering the Reformation of Religion, dividing the King from his peo<g ref="char:EOLhyphen"/>ple, or one of the Kingdoms from another, or making any Faction or parties amongſt the people, contrary to this League and Covenant, that they may be brought to pub<g ref="char:EOLhyphen"/>licke triall, and receive condigne puniſhment, as the de<g ref="char:EOLhyphen"/>gree of their offences ſhall require or deſerve, or the ſu<g ref="char:EOLhyphen"/>pream Judicatories of both Kingdoms reſpectively, or others having power from them for that effect, ſhall judge convenient.</hi>
+                        </p>
+                        <p>
+                           <label>V.</label> 
+                           <hi>And whereas the happineſſe of a bleſſed Peace between theſe Kingdoms, denyed in former times to our Progeni<g ref="char:EOLhyphen"/>tors, is by the good providence of God granted unto us, and hath been lately concluded, and ſetled by both Par<g ref="char:EOLhyphen"/>liaments, we ſhall each one of us, according to our place and intereſt indeavour that they may remain conjoyned in a firme Peace and Union to all Poſterity; And that Iu<g ref="char:EOLhyphen"/>ſtice may be done upon the wilfull oppoſers therof, in man<g ref="char:EOLhyphen"/>ner expreſſed in the precedent Articles.</hi>
+                        </p>
+                        <p>
+                           <label>VI.</label> 
+                           <hi>We ſhall alſo according to our places and callings in this common cauſe of Religion, Liberty and Peace of the Kingdomes, aſſiſt and defend all thoſe that enter into this League &amp; Covenant, in the maintaining &amp; purſuing there<g ref="char:EOLhyphen"/>of, and ſhall not ſuffer our ſelves directly or indirctly by whatſoever combination, perſwaſion or terrour, to be di<g ref="char:EOLhyphen"/>vided,
+<pb n="13" facs="tcp:63366:7"/>&amp; withdrawn frm this bleſſed Union &amp; conjuction, whether to make defectio<g ref="char:cmbAbbrStroke">̄</g> to the contrary part, or to give our ſelves to a deteſtable indifferency or neutrality in this cauſe, which ſo much concerneth the glory of God, the good of the Kingdoms, and the honour of the King; but ſhall all the dayes of our lives, zealouſly and conſtantly continue therein, againſt all oppoſition, and promote the ſame according to our power, againſt all Lets and Impedi<g ref="char:EOLhyphen"/>ments whatſoever; and what we are not able our ſelves to ſuppreſſe or overcome, we ſhall reveal and make known, that it may be timely prevented or removed; All which we ſhall do as in the ſight of God.</hi>
+                        </p>
+                     </body>
+                  </floatingText>
+                  <p>And becauſe theſe Kingdoms are guilty of many ſins and provocations againſt God, and his Son Ieſus Chriſt, as is too manifeſt by our preſent diſtreſſes and dangers, the fruits thereof; We profeſſe and declare before God and the world, our unfayned deſire to be humbled for our own ſins, and for the ſins of theſe Kingdoms, eſpecially, that we have not as m ought, valued the ineſtimable benefit of the Goſpel, that we have not laboured for the purity and power thereof, and that we have not endeavoured to receive Chriſt in our hearts, nor to walk worthy of him in our lives, which are the cauſes of other ſins and Tranſgreſsions, ſo much abounding amongſt us; And our true and unfained pur<g ref="char:EOLhyphen"/>poſe, deſire, and endeavour for our ſelves, and all others under our power and charge, both in publike and in private, in all du<g ref="char:EOLhyphen"/>ties we owe to God and man, to amend our lives, and each one to go before another in the example of a reall Reformation, that the Lord may turn away his wrath, and heavy indignation, and eſtabliſh theſe Churches and Kingdoms in trueth and peace. And this Covenant we make in the preſence of Almighty God the Searcher of all hearts, with a true intention to performe the
+<pb n="14" facs="tcp:63366:8"/>ſame, as we ſhall anſwer at that great day, when the ſecrets of all hearts ſhall be diſcloſed, Moſt humbly beſeeching the Lord to ſtrengthen us by his Holy Spirit for this end, and to bleſſe our deſires and proceedings with ſuch ſucceſſe, as may be deliverance and ſafety to his people, and encouragement to other Chriſtian Churches groaning under, or in danger of the yoke of Anti<g ref="char:EOLhyphen"/>chriſtian Tyranny; to joyne in the ſame, or like Aſſociation and Covenant, to the glory of God, the enlargement of the King<g ref="char:EOLhyphen"/>dom of Jeſus Chriſt, and the peace and Tranquility of Christi<g ref="char:EOLhyphen"/>an Kingdomes and Common-Wealths.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Wil: Lenthall Speaker</item>
+                           <item>Beuchamp St. Iohn</item>
+                           <item>Gilbert Gerrard</item>
+                           <item>Walter Erle</item>
+                           <item>Iames Cambell</item>
+                           <item>Tho: Cheeke</item>
+                           <item>Robert Nicholas</item>
+                           <item>Benjamin Rudyard</item>
+                           <item>Iohn Gurdon</item>
+                           <item>Robert Harley</item>
+                           <item>Francis Knollys</item>
+                           <item>Edward Maſter</item>
+                           <item>Iohn White</item>
+                           <item>Anthony Stapeley</item>
+                           <item>Dennis Bond</item>
+                           <item>Laurence Whitaker</item>
+                           <item>Michaell Noble</item>
+                           <item>Pere: Hoby</item>
+                           <item>Richard Barwis</item>
+                           <item>Edward Baynton</item>
+                           <item>William Cawley</item>
+                           <item>Iohn Moyle</item>
+                           <pb n="15" facs="tcp:63366:8"/>
+                           <item>Iohn Pyne</item>
+                           <item>George Searle</item>
+                           <item>Henry Vane Senior</item>
+                           <item>Nevill Poole</item>
+                           <item>Iohn Yonge</item>
+                           <item>Henry Herbert</item>
+                           <item>Thomas Sandis</item>
+                           <item>William Ieſſon</item>
+                           <item>Philip L: Herbert</item>
+                           <item>Thomas Barrington</item>
+                           <item>Martin Lumley</item>
+                           <item>Iohn Trevor</item>
+                           <item>Francis Godolphin</item>
+                           <item>Thomas Arundell</item>
+                           <item>Edward Stephens</item>
+                           <item>Gilbert Pykering</item>
+                           <item>Iohn Creue</item>
+                           <item>Oliver Cromwell</item>
+                           <item>Henry Vane Iunior.</item>
+                           <item>William Cage</item>
+                           <item>Richard Eriſey</item>
+                           <item>Philip L: Liſle.</item>
+                           <item>William Heveningham</item>
+                           <item>Iſaac Penington</item>
+                           <item>Richard Creſheld</item>
+                           <item>Thomas Pelham</item>
+                           <item>Thomas Parker</item>
+                           <item>Iohn Leigh</item>
+                           <item>Iohn Harris</item>
+                           <item>Auguſtine Skinner</item>
+                           <item>Iohn Venn</item>
+                           <item>William Strickland</item>
+                           <item>Iohn Franklin</item>
+                           <item>Samuel Browne</item>
+                           <pb n="16" facs="tcp:63366:9"/>
+                           <item>Robert Scawen</item>
+                           <item>Roger Hill</item>
+                           <item>Iohn Button</item>
+                           <item>Iohn Meyrick</item>
+                           <item>Ambroſſe Browne</item>
+                           <item>Richard Wynn</item>
+                           <item>Edward Owner</item>
+                           <item>Charles Pym</item>
+                           <item>Charles L: Cranborne</item>
+                           <item>Ben. Weſton</item>
+                           <item>Dudley North</item>
+                           <item>Iohn Nut</item>
+                           <item>Io: Corlet</item>
+                           <item>Roger Burgoyne</item>
+                           <item>Peter Temple</item>
+                           <item>Benjamin Valentyne</item>
+                           <item>Thomas Walſingham</item>
+                           <item>Oliver Luke</item>
+                           <item>William Alenſon</item>
+                           <item>Humphery Salwey</item>
+                           <item>Richard More</item>
+                           <item>VVilliam Aſhurſt</item>
+                           <item>Thomas Moore</item>
+                           <item>Thomas Fountayne</item>
+                           <item>VVilliam Ellys</item>
+                           <item>Henry Shelley</item>
+                           <item>Richard Shuttleworth</item>
+                           <item>Henry Ludlow</item>
+                           <item>George Gallopp</item>
+                           <item>Robert Wallopp</item>
+                           <item>Arthur Heſilrige</item>
+                           <item>Oliver Saint-John</item>
+                           <item>Thomas Grantham</item>
+                           <item>Francis Barneham</item>
+                           <pb n="17" facs="tcp:63366:9"/>
+                           <item>Will: <hi>L:</hi> Fitzwilliams</item>
+                           <item>Edmund Dunch</item>
+                           <item>Henry Mildmay</item>
+                           <item>Hugh Rogers</item>
+                           <item>Thomas Hatcher</item>
+                           <item>John Wray</item>
+                           <item>Simonds D'Ewes</item>
+                           <item>Anthony Bedingfield</item>
+                           <item>John Aſhe</item>
+                           <item>William <hi>L:</hi> Munſon</item>
+                           <item>Martyn Liſter</item>
+                           <item>Robert Goodwyn</item>
+                           <item>Edward Thomas</item>
+                           <item>Henry Lucas</item>
+                           <item>Miles Corbett</item>
+                           <item>Philip Smith</item>
+                           <item>Cornelius Holland</item>
+                           <item>William Spurſtowe</item>
+                           <item>John Lowry</item>
+                           <item>Peter Wentworth</item>
+                           <item>Henry Cholmeley</item>
+                           <item>Philip Stapleton</item>
+                           <item>William Pierrepont</item>
+                           <item>Roger North</item>
+                           <item>Alexander Popham</item>
+                           <item>Thomas Hodges</item>
+                           <item>John Maynard</item>
+                           <item>Samuel Vaſſall</item>
+                           <item>Anthony Irby</item>
+                           <item>John Clotworthy</item>
+                           <item>John Broxolme</item>
+                           <item>Richard Jervoyſe</item>
+                           <item>John Blakiſton</item>
+                           <item>Walter Longe</item>
+                           <pb n="18" facs="tcp:63366:10"/>
+                           <item>John Rolle</item>
+                           <item>Robert Jennor</item>
+                           <item>John Waddon</item>
+                           <item>William Maſham</item>
+                           <item>John Liſle</item>
+                           <item>Edmund Fowell</item>
+                           <item>Edward Aſhe</item>
+                           <item>Thomas Pury</item>
+                           <item>Richard Whithead</item>
+                           <item>Richard Jenyns</item>
+                           <item>Humphrey Tufton</item>
+                           <item>Thomas Dacres</item>
+                           <item>Thomas Erle</item>
+                           <item>John Downes</item>
+                           <item>John Goodwyn</item>
+                           <item>Francis Drake</item>
+                           <item>William Waller</item>
+                           <item>Samuel Luke</item>
+                           <item>Francis Buller</item>
+                           <item>Richard Harman</item>
+                           <item>George Buller</item>
+                           <item>Arthur Onſlowe</item>
+                           <item>Richard Wynwood</item>
+                           <item>Robert Pye</item>
+                           <item>Hen. <hi>L:</hi> Grey <hi>of</hi> Ruthin</item>
+                           <item>Richard Knightley</item>
+                           <item>John Pym</item>
+                           <item>Chriſtopher Yelverton</item>
+                           <item>Anthony Nicoll</item>
+                           <item>Peter Wroth</item>
+                           <item>Robert Reynolds</item>
+                           <item>Nathaniel Barnardiſton</item>
+                           <item>Henry Heyman</item>
+                           <item>William Purefoy</item>
+                           <pb n="19" facs="tcp:63366:10"/>
+                           <item>Valentine Walton</item>
+                           <item>Michael Oldeſworth</item>
+                           <item>William Wheler</item>
+                           <item>Hall Ravenſcroft</item>
+                           <item>Tho. <hi>L:</hi> Grey of Groby</item>
+                           <item>Thomas Middleton</item>
+                           <item>Edward Hungerford</item>
+                           <item>Chriſtopher Wrey</item>
+                           <item>Richard Lee</item>
+                           <item>Herbert Morley</item>
+                           <item>Thomas Lane</item>
+                           <item>Robert Cecill</item>
+                           <item>William Bell</item>
+                           <item>Thomas Some</item>
+                           <item>Herbottle Grimstone</item>
+                           <item>Symon Snowe</item>
+                           <item>John Naſh</item>
+                           <item>Herbottle Grimſtone</item>
+                           <item>Ralph Aſheton</item>
+                           <item>Edward Ayſhcoghe</item>
+                           <item>John Wylde</item>
+                           <item>John Trenchard</item>
+                           <item>Thomas Jervoyſe</item>
+                           <item>Richard Brown</item>
+                           <item>William Playters</item>
+                           <item>Nathaniel Stephens</item>
+                           <item>Richard Roſe</item>
+                           <item>Francis Rous</item>
+                           <item>Gilbert Millington</item>
+                           <item>Walter Young</item>
+                           <item>John Brown</item>
+                           <item>John Hippiſley</item>
+                           <item>Edward Poole</item>
+                           <item>Henry Pelham</item>
+                           <pb n="20" facs="tcp:63366:11"/>
+                           <item>William Hay</item>
+                           <item>John Driden</item>
+                           <item>Nathaniel Fyennes</item>
+                           <item>William Lewis</item>
+                           <item>Giles Grene</item>
+                           <item>William Lytton</item>
+                           <item>John Hervey</item>
+                           <item>Edward Dowce</item>
+                           <item>William Strode</item>
+                           <item>Edmond Prideaux</item>
+                           <item>Thomas Hoyle</item>
+                           <item>Edward Exton</item>
+                           <item>Francis Popham</item>
+                           <item>Zouch Tate</item>
+                           <item>John Curſon</item>
+                           <item>Alexander Bence</item>
+                           <item>Squire Bence</item>
+                           <item>John Selden</item>
+                           <item>John Glynn</item>
+                           <item>Richard Onſlow</item>
+                           <item>John Coke</item>
+                           <item>Thomas <hi>L:</hi> Wenman</item>
+                           <item>Bulſtrode Whitelocke</item>
+                           <item>George Mountagu</item>
+                           <item>Edward Partheriche</item>
+                           <item>Henry Campion</item>
+                           <item>William Whitaker</item>
+                           <item>Denzell Holles</item>
+                           <item>Edward Wingate</item>
+                           <item>James Fenys.</item>
+                           <item>Poynings Moore</item>
+                           <item>Edward Biſſe, <hi>Junior.</hi>
+                           </item>
+                           <item>William Jephſon</item>
+                           <item>Edward Mountagu</item>
+                           <item>Norton Knatchboll.</item>
+                           <item>Thorn at Eden</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="text">
+                  <pb n="21" facs="tcp:63366:11"/>
+                  <head>THE DECLARATION of the Kingdoms of ENGLAND And SCOTLAND, Joyned in Arms for the Vindication and De<g ref="char:EOLhyphen"/>fence of their Religion, Liberties, and Laws, againſt the Popiſh, Prelaticall, and Malignant Party</head>
+                  <byline>By the Honorable Houſes of the Parliament of <hi>England,</hi> and the Honorable Convention of Eſtates of the Kingdom of <hi>Scotland, Jan.</hi> 20. 1643.</byline>
+                  <p>
+                     <seg rend="decorInit">I</seg>F either Chriſtian Duty, which, by reaſon of the Light of the Goſpel ſo clearly ſhining a<g ref="char:EOLhyphen"/>mongſt us, might have been expected from the Profeſſors of Religion; Or if naturall Affection, which, even in the Heathen and Infidells, ignorant of Chriſt, hath abounded
+<pb n="22" facs="tcp:63366:12"/>toward their Native Countrey; Or ſincere reſpect to His Majeſties Honour and Hap<g ref="char:EOLhyphen"/>pineſſe, could have been found in the waves or hearts of our common Enemies, the Ene<g ref="char:EOLhyphen"/>mies of Truth and Peace; If they had either feared God, or regarded men, or yeelded to our Importunities, We had not, after ſo many Petitions, Declarations and Remon<g ref="char:EOLhyphen"/>ſtrances as have filled all mens ears and hands, been put to this neceſſity of a new Declaration (which therefore muſt be more patheticke and preſſing then any of the former) Nor after ſo many troubles and ſufferings of the Kingdome of <hi>Scotland,</hi> after the deſolation of the Kingdome of <hi>Ireland,</hi> and after ſo much blood, and ſo many unnaturall Tragedies in the Kingdom of <hi>England,</hi> had we been redacted to this preſent condition, and joynt poſture of Arms, the Lord, whoſe counſels are a great depth, and who is righteous in all his wayes, and holy in all his Works, hath juſt cauſe of controverſie againſt us, and this whole Iſland.</p>
+                  <p>But who would have believed, That our Religion, Liberties, and Laws, which
+<pb n="23" facs="tcp:63366:12"/>for ſo long a time have endured Oppoſiti<g ref="char:EOLhyphen"/>on and Aſſaults of forreigne Power, envy<g ref="char:EOLhyphen"/>ing our happineſſe, would have been oppo<g ref="char:EOLhyphen"/>ſed, oppreſſed, and trod under foot, by the craft and cruelty of our own Natives and Countrey-men?</p>
+                  <p>In this our extremity, firſt of all we de<g ref="char:EOLhyphen"/>clare, That we place not our confidence in our own counſells and ſtrength, but our con<g ref="char:EOLhyphen"/>fidence is in God Almighty, the Lord of Hoſts, who will not leave nor forſake his peo<g ref="char:EOLhyphen"/>ple; It is his own Truth and Cauſe which we maintain, with all the Reformed Churches, and which hath been witneſſed and ſealed by the Teſtimony, Sufferings, and Blood of ſo many Confeſſors and Martyrs, againſt the Hereſie, Superſtition, and Tyranny of Anti<g ref="char:EOLhyphen"/>chriſt: The glory of his own Name, The ex<g ref="char:EOLhyphen"/>altation of the Kingdome of his Son, and The preſervation of his Church, and of this whole Iſland from utter ruine and devaſta<g ref="char:EOLhyphen"/>tion, is our Aym, and the End which we have before our eyes. His Covenant have we in both Nations ſolemnly ſworn and ſubſcribed; which he would not have put in our hearts to do, if he had been minded to deſtroy us: The
+<pb n="24" facs="tcp:63366:13"/>many Prayers and Supplications which theſe many yeers paſt, but eſpecially of late have been offered up with Faſting and Humiliati<g ref="char:EOLhyphen"/>on, and with ſtrong crying and tears, unto him that is able to deliver and ſave us, are a Seed which promiſe unto us a plentifull Harveſt of Comfort and Happineſſe: and the Apoſtaſie, Atheiſme, Idolatry, Blaſphemies, Prophane<g ref="char:EOLhyphen"/>neſſe, Cruelty, Exceſſe, and open Mocking of all Godlineſſe and Honeſty, have filled the cup of our adverſaries to the brim, and threaten their ſpeedy and fearfull deſtruction, unleſſe it be prevented by ſuch extraordinary repent<g ref="char:EOLhyphen"/>ance, as ſeemeth not yet to have entred into their hearts.</p>
+                  <p>Upon theſe and the like Grounds and Con<g ref="char:EOLhyphen"/>ſiderations, being confident that this War wherein both Nations, now firmly united, are ſo deeply engaged, is of God; we reſolve with courage and conſtancy unto the end, to do our part; and the Lord, who hath ſtirred up our ſpirits, diſplayed his Banner before us, and given the Alarm, do that which ſeemeth him good.</p>
+                  <p>Secondly, although every man is to hope for the principall reward of his ſervice from God,
+<pb n="25" facs="tcp:63366:13"/>rewards every one according to his workes; yet we finde our ſelves bound in conſcience and equity to Declare, That beſides thoſe who have the Publick Faith ingaged to them for their ſe<g ref="char:EOLhyphen"/>curity, ſuch as ſince the beginning have done valiantly, and dealt faithfully in this Cauſe, and ſuch as have choſen rather to ſuffer the ſpoyling of their goods, then to aſsiſt the Enemy, or to take Armes againſt their Religion and Coun<g ref="char:EOLhyphen"/>trey, and ſhall continue conſtant in the ſame courſe of doing or ſuffering unto the end, ſhall be according to their Merits taken into publick Notice and Conſideration; their loſſes (ſo farre as may bee) repaired, and themſelves honou<g ref="char:EOLhyphen"/>red and rewarded by ſuch meanes and wayes, as we truſt God in his providence ſhall afford, and the Parliaments or Eſtates of the two King<g ref="char:EOLhyphen"/>domes reſpectively ſhall in their Wiſdome, Ju<g ref="char:EOLhyphen"/>ſtice, and Thankfulneſſe, judge moſt conveni<g ref="char:EOLhyphen"/>ent: ſo that no man who hath been eminent in action, or hath ſuffered any notable loſſe for the publick, ſhall be neglected or ſleighted, but one way or other ſhall bee thankfully remem<g ref="char:EOLhyphen"/>bred, to his owne honour and the good of his poſterity.</p>
+                  <pb n="26" facs="tcp:63366:14"/>
+                  <p>Thirdly, although newtrality and indifferen<g ref="char:EOLhyphen"/>cy in the time of the danger of Religion be a thing deteſtable to God, who willeth all Chriſtians ear<g ref="char:EOLhyphen"/>neſtly to contend for the Truth: and ſuch as have beene Newtraliſts or indifferent in the times of civill diviſion and danger of the Common-wealth, have beene in all Nations ſeverely puni<g ref="char:EOLhyphen"/>ſhed as pernicious and publick enemies: Yet that the conſciences of all men may bee the more convinced, and all pretexts removed, We give now PUBLICK WARNING to ſuch per<g ref="char:EOLhyphen"/>ſons to reſt no longer upon their Newtrality, or to pleaſe themſelves with the naughty and ſloth<g ref="char:EOLhyphen"/>full pretext of Indifferency, but that they addreſſe themſelves ſpeedily to take the Covenant, and joyne with all their power in the defence of this Cauſe, againſt the common Enemy; and by their zeale and forwardneſſe hereafter, to make up what hath been wanting through their lukewarmneſſe; this they will finde to be their greateſt wiſdome and ſafety; Otherwiſe We do Declare them to be publick Enemies to the Religion and Countrey, and that they are to be cenſured and puniſhed as profeſſed Adverſaries and Malignants.</p>
+                  <p>Fourthly, Becauſe a great many of the multi<g ref="char:EOLhyphen"/>tude of the people, upon ignorant Miſtakings, falſe Informations, and Threats, or Compulſions,
+<pb n="27" facs="tcp:63366:14"/>againſt their wils and inclination, have been in<g ref="char:EOLhyphen"/>duced or conſtrained to joyne in Armes with the Enemies againſt their Religion and Native coun<g ref="char:EOLhyphen"/>trey; We doe Declare that all common Souldiers, who upon the humble acknowledgement of their former errours, ſhall offer themſelves willingly and ſpeedily to take the Covenant, and ſhall joyne heartily and really in the defence of this Cauſe, as becommeth good Chriſtians and lovers of their Countrey, ſhall be freely accepted into the Covenant, and their former errour paſſed by; o<g ref="char:EOLhyphen"/>therwiſe let them expect the puniſhment of wil<g ref="char:EOLhyphen"/>full Delinquents and Malignants.</p>
+                  <p>Fifthly, becauſe ſome of the Scottiſh Nation, upon their own private reſpects, or upon ſpeci<g ref="char:EOLhyphen"/>ous pretences and faire perſwaſions, have joyned themſelves in Armes with the popiſh Prelaticall, and Malignant party, againſt the Parliament and Kingdome of ENGLAND, and not conſidering the nature of the Cauſe in which they have been inga<g ref="char:EOLhyphen"/>ged, nor the deep intereſt of the Church and king<g ref="char:EOLhyphen"/>dome of SCOTEAND, upon which this War was to turn in the end, have been fighting againſt their ovvn Religion and native Kingdome: We do therefore again WARNE all ſuch, of vvhatſoever quality, &amp; in vvhatſoever place, ſpeedily to vvith<g ref="char:EOLhyphen"/>draw
+<pb n="28" facs="tcp:63366:15"/>themſelves from that Faction, to confeſſe their miſtakes, and to joyne in the Covenant and cauſe of God in both Kingdomes before the <hi>first day of March next;</hi> otherwiſe we Declare, in the behalfe of the Kingdome of ENGLAND, that they are to expect no favour, but are to be uſed as de<g ref="char:EOLhyphen"/>ſperate Malignants. And We Declare in behalfe of the kingdome of SCOTLAND, if they either conti<g ref="char:EOLhyphen"/>nue in Arms after the foreſaid <hi>first day of March,</hi> or withhold their help and aſsiſtance from their Na<g ref="char:EOLhyphen"/>tive country in the time of trouble &amp; danger, they are to be cenſured &amp; puniſhed as publick enemies to their Religion and Country, perfidious tranſ<g ref="char:EOLhyphen"/>greſſours of their Nationall Covenant, and their eſtates diſpoſed of for the uſe of the Publick.</p>
+                  <p>Sixthly, Becauſe there are divers Noblemen, Knights, Gentlemen, Citizens; and others, who by forſaking or deſerting the Parliament of England, and by joyning themſelves to the Enemies of Re<g ref="char:EOLhyphen"/>ligion, his Majeſties happineſſe and peace of the kingdomes, have made the Diviſion greater, and the Breaches wider betwixt the King and his Par<g ref="char:EOLhyphen"/>liament; and thereby contrary to the duty of their places &amp; callings, have been the cauſe of the ſhed<g ref="char:EOLhyphen"/>ding of much innocent Blood, of great Loſſes, and of many Miſeries and Dangers to the publick of
+<pb n="29" facs="tcp:63366:15"/>both Kingdomes, and of the ſufferings of private men in their Eſtates, and Lives, and yet are not to be reckoned amongſt the prime Authors of this unnaturall War, nor amongſt the malicious and deſperate Enemies of their Religion and country: We do Declare, That all ſuch forſaking their for<g ref="char:EOLhyphen"/>mer Oppoſition, returning to their duty, &amp; endea<g ref="char:EOLhyphen"/>vouring the good of Religion and the publick Peace, ſhall, as to their lives and liberties of their perſons, be ſecured, and ſhall be received into fa<g ref="char:EOLhyphen"/>vour: But to the end, that a juſt difference may be made betwixt ſuch perſons returning ſo late to their duty, and thoſe that never departed from it, they muſt expect, that toward the payment of the publick Debts, relieving the common Burdens of the Kingdomes, and repairing of particular loſſes: All which in a great part have been contracted and ſuſtained by their default or procurement: Their eſtates in ſome proportion ſhould be lyable, and that as the wiſdome and diſcretion of Parliament, or of ſuch as ſhall be authorized by them, (who will be as carefull to prevent their ruine as to pu<g ref="char:EOLhyphen"/>niſh their Delinquencies) ſhall finde and judge to be neceſſary for that end. Wherein alſo, the time of their returning and offering themſelves, the reality of their affections and intentions, and rea<g ref="char:EOLhyphen"/>dineſſe
+<pb n="30" facs="tcp:63366:16"/>to joyne in the common Cauſe and Cove<g ref="char:EOLhyphen"/>nant, will be taken into ſpeciall conſideration. And in caſe they perſiſt in their Oppoſition, and ſhall not return before the <hi>firſt day of March next,</hi> they are not to expect favour, but ſhall be puniſhed as publick enemies to their Religion and Country.</p>
+                  <p>Seventhly, Becauſe Papiſts and popiſh Recu<g ref="char:EOLhyphen"/>ſants, according to the principles of their profeſsi<g ref="char:EOLhyphen"/>on, have ever beene plotting and contriving the change of Religion in this Iland, and the ruine of all the Profeſſours thereof: And after the fruſtrati<g ref="char:EOLhyphen"/>on of their attempts, having waited upon ſuch a time as this, have alienated the heart or the Kings Majeſty from his Proteſtant &amp; loyall Subjects, ta<g ref="char:EOLhyphen"/>ken Armes againſt the Parliament and Kingdome; and by all their means and power have maintai<g ref="char:EOLhyphen"/>ned a bloody and unnaturall War, preſuming in the end to have their execrable Superſtition and Idolatry ſet up in the place of the true Reformed Religion, and the King and his kingdomes to be brought under the power &amp; tyrannie of the Pope. We doe hereby Declare, that all ſuch Papiſts and popiſh Recuſants, who have been, now are, or ſhall be actually in Arms, under the falſe pretence of defending the Kings perſon and authority, are to look for no favour, but to be puniſhed as tray<g ref="char:EOLhyphen"/>rors
+<pb n="31" facs="tcp:63366:16"/>and profeſſed and intolerable Enemies of Re<g ref="char:EOLhyphen"/>ligion and their Native country. The ſame Decla<g ref="char:EOLhyphen"/>ration We alſo make againſt all ſuch Iriſh Rebels, whether Papiſts or others, who have come over from Ireland, and aſsiſted in this war againſt the Parliament, and Kingdome of England.</p>
+                  <p>And Laſtly, becauſe there are ſome few wicked and divelliſh ſpirits of both Kingdomes, who have kindled and fomented the fire of Diviſion and War betwixt the King and his Parliament, or have miſgoverned his Majeſties Counſels and courſes to his own diſhonour, and to the deſtruction of his loving and dutifull ſubjects, or have infuſed malignancy in others, or have been reſtleſſe and and active Inſtruments of the troubles and miſe<g ref="char:EOLhyphen"/>ries of his Majeſties Dominions.</p>
+                  <p>We doe Declare, concerning thoſe who are or ſhall be found by the Supreame Judicatories of the Kingdomes reſpectively, or their Committees appointed for that effect, to be ſuch, That as the conſcience of their own bad deſervings hath made them to deſpaire of favour, and thereby unceſ<g ref="char:EOLhyphen"/>ſantly to work more and more miſchiefe againſt their Religion and Native country, ſo are they to looke for ſuch execution of Juſtice, as is due to traytors and enemies of Religion, of the King, and
+<pb n="32" facs="tcp:63366:17"/>his Kingdomes for Terror and example to others, in all times to come.</p>
+                  <p>And it is further now Declared, That the whole eſtates reall and perſonall, moveable &amp; inheritance of thoſe that ſhall not come in at the times before limited in the ſixth Article, and of the perſons be<g ref="char:EOLhyphen"/>fore excepted from pardon, (as of Papiſts in Arms, Iriſh Rebels, and thoſe who ſhall be found to come within the compaſſe of the precedent Article) ſhall be forfeited and imployed for paying the publicke debts, relieving the common burdens of the King<g ref="char:EOLhyphen"/>doms, and repairing of particular loſſes.</p>
+                  <p>And this Declaration we make, not from any preſumption or vain-glorying in the ſtrength of our Armies and Forces, but from the ſence of that duty which is required, and expected from the high places and publick relations wherin we ſtand, and from the aſſurance We have of the aſſiſtance of God, by whoſe providence the truſt and ſafety of theſe Kingdomes is put into our hands at this time, having ofter long and grave conſultation, re<g ref="char:EOLhyphen"/>ſolved and deereed, never to lay downe Armes till Truth and Peace, by the bleſſing of God, be ſetled in this Iland upon a firme foundation, for the pre<g ref="char:EOLhyphen"/>ſent and future Generations, which ſhall be eſteem<g ref="char:EOLhyphen"/>ed of Us an abundant reward of all that We can doe or ſuffer in rhis Cauſe.</p>
+               </div>
+               <div type="text">
+                  <pb n="33" facs="tcp:63366:17" rendition="simple:additions"/>
+                  <head>A DECLARATION Of the Kingdome of SCOTLAND, For Information and Satisfaction to their Brethren of <hi>England,</hi> concerning the preſent Expedition into ENGLAND.</head>
+                  <p>
+                     <seg rend="decorInit">A</seg>Lthough we have reaſon to beleeve that the bloody and barbarous attempts of the Papiſts and their Faction, both in <hi>England</hi> and <hi>Ireland,</hi> and the manifold oppreſſions and miſeries endured by thoſe that ſtand well affected to the Proteſtant Religion, and their Countries Liberty, have made way in the hearts of men for the ready entertainment of aſ<g ref="char:EOLhyphen"/>ſiſtance from their Brethren, whoſe earneſt deſire it is, and whoſe utmoſt endeavour it ſhall be, to preſerve and reſtore both unto them: Yet know<g ref="char:EOLhyphen"/>ing how induſtrious the malice of the Devill and his inſtruments are, in raiſing Prejudices, and fo<g ref="char:EOLhyphen"/>menting jealouſies betwixt them whoſe hearts and mindes ought to be one, becauſe their happi<g ref="char:EOLhyphen"/>neſſe is the ſame, and particularly betwixt us and our Brethren of <hi>England,</hi> that by dividing us from each other, they might deſtroy us both: And that
+<pb n="34" facs="tcp:63366:18"/>this our ſecond Expedition into <hi>England</hi> (which we doubt not but God will bleſſe, to the advan<g ref="char:EOLhyphen"/>tage of that Nation, as he did our firſt, to the hap<g ref="char:EOLhyphen"/>pineſſe of our owne) in ſteal of wonder and op<g ref="char:EOLhyphen"/>poſition, may finde the cheer ull concurrence of all thoſe who together with us deſire, The Pre<g ref="char:EOLhyphen"/>ſervation and Reformation of Religion: The ho<g ref="char:EOLhyphen"/>nour and happineſſe of the King; The Peace and Libertie of the Kingdoms: We thought fit to per<g ref="char:EOLhyphen"/>mit this ſhort, but free and ingenuous Declarati<g ref="char:EOLhyphen"/>on, of our Grounds and Intentions in this our pre<g ref="char:EOLhyphen"/>ſent undertaking, that ſo we may meet with none but ſuch as we may either finde peaceable or leave inexcuſable.</p>
+                  <p>Whereas there ore the greateſt queſtions that are like to ariſe in this buſineſſe, may be reduced to theſe three particulars, <hi>viz. The juſtneſſe of our Cauſe: The lawfulneſse of our calling thereto:</hi> And <hi>The faith<g ref="char:EOLhyphen"/>fulneſse of our carriages therein.</hi> We ſhall hereby en<g ref="char:EOLhyphen"/>deavour to give ſatisfaction in them all, and doubt not to doe it, unleſſe there remain ſome whoſe in<g ref="char:EOLhyphen"/>ve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erate malice hath produced in them a reſolution to be unſatisfied.</p>
+                  <p>As for the cauſe and ground of this underta<g ref="char:EOLhyphen"/>king, we are not ignorant with how much earneſt<g ref="char:EOLhyphen"/>neſſe the ſons of ſlander and perdition (whoſe cuſtome is to traduce thoſe proceedings which they know not how to diſappoint) do endeavour
+<pb n="35" facs="tcp:63366:18"/>to poſſeſſe the hearts of our Brethren, that we are coming to fiſh in the troubled waters of <hi>England,</hi> to ſeek and take our own advantages in the midſt of your neceſſities. But ſuffer not your e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>res, much leſſe your hearts, to be open to any ſuch deluſions, whereof we truſt your eyes ſhall ſhortly witneſſe the falſhood. For as here after we doubt not to ap<g ref="char:EOLhyphen"/>peal to our carnages and your conſciences, beſides your late experience of our Religious obſervance of our former Declarations of this kinde; ſo in the meane time give us leave to appeal to the great ſearcher of hearts, who knows; That had not the love of Chriſt, requiring Chriſtians to beare one a<g ref="char:EOLhyphen"/>nothers burden; and the Law of nature challen<g ref="char:EOLhyphen"/>ging our utmoſt care and endeavor, for the preven<g ref="char:EOLhyphen"/>tion of our own danger and ruine, which an ordi<g ref="char:EOLhyphen"/>nary underſtanding will eaſily ſee to be wrapped up in our neighbours, And our dutie, and deſire of reſcuing the King from the dangers wherein he is involved, by the company and pernicious Counſell of thoſe who are enemies to Religion, his Majeſties happineſſe, and Peace of his Dominions, Called and compelled us to this Service, we could with far more content and ſatisfaction to our ſelves, have enjoyed with quietneſſe our <hi>dry morſell, then entred into your houſes full of ſacrifices with ſtrife:</hi> Which yet ſince we are required and neceſſitated to, by that juſt Calling, hereafter to be mentioned, <hi>We profeſſe
+<pb n="37" facs="tcp:63366:19"/>before God and the World,</hi> that our hearts and thoughts are clean and free from any other Intentions then thoſe expreſſed in our ſolemn League &amp; Covenant, in which we are confederate with <hi>England, viz.</hi> The Preſervation and Reformation of Religion; The Honour and Happineſſe of the King; and, The Peace and Liberties of the Kingdoms. All which we now apprehend to be deeply endange<g ref="char:EOLhyphen"/>red, by the Councels and Confederacies of Papiſts, Prelats, Malignants, and their adherents, ſo preva<g ref="char:EOLhyphen"/>lent in <hi>England</hi> and <hi>Ireland:</hi> And we ſhall no other<g ref="char:EOLhyphen"/>wiſe deſire a bleſſing upon our endeavours, then as they ſhall be directed to the conſervation and e<g ref="char:EOLhyphen"/>ſtabliſhment thereof.</p>
+                  <p>And becauſe it is not ſufficient to be ingaged in a good Cauſe, unleſſe by a good calling, we do here<g ref="char:EOLhyphen"/>by further declare, That though the inſeparable in<g ref="char:EOLhyphen"/>tereſts of both Nations in their Religion and Li<g ref="char:EOLhyphen"/>berties, which having the ſame common Enemies, muſt look to ſtand and fall together, might have given us ſufficient warrant to have endeavoured the prevention of our own ruine, by preſerving our Friends and Brethren from deſtruction: yet that we might be the more fully and formally obliged to this Chriſtian duty and ſervice, and ſo the mouth of ſlander and malice be ſtopped, God hath ſo or<g ref="char:EOLhyphen"/>dered things in his wiſe and juſt providence, that the Parliament, of <hi>England,</hi> who (beſide, their inte<g ref="char:EOLhyphen"/>reſt
+<pb n="36" facs="tcp:63366:19"/>in the Preſervation and Reformation of Religi<g ref="char:EOLhyphen"/>on, and the defence of the Lawes and Liberties of the Kingdome, to which our help is requited) have a particular obligation upon this Nation (As we have formerly declared our Intentions publi<g ref="char:EOLhyphen"/>ſhed before our laſt Expedition) for refuſing to countenance or maintaine a Warre againſt us, in the yeere 1640. have thought fit by their Commiſſi<g ref="char:EOLhyphen"/>oners enabled to that effect, to deſire a firm Vnion with us; and this juſt and neceſſary aſſiſtance from us.</p>
+                  <p>And whereas it is too obvious an Objection, That the Kings command or conſent being no in<g ref="char:EOLhyphen"/>gredient, our Calling is thereby rendred deficient: We anſwer, That though, through the injury of miſchievous Councels, both his Perſon and perſo<g ref="char:EOLhyphen"/>nall Commands are withheld from us: Yet his Ho<g ref="char:EOLhyphen"/>nour, his Happineſſe, his Poſterity, his great Coun<g ref="char:EOLhyphen"/>cel, and the welfare of his Kingdoms, call importu<g ref="char:EOLhyphen"/>nately to us for this timely interpoſing. So that un<g ref="char:EOLhyphen"/>leſſe we can (which God forbid) blot out of our thoughts the ſence of Piety and Religion toward God, of Honour and duty toward our Soveraigne, and of Gratitude toward the Parliament and King<g ref="char:EOLhyphen"/>dome of <hi>England,</hi> we can in no wiſe reſiſt our pre<g ref="char:EOLhyphen"/>ſent Call to this undertaking.</p>
+                  <p>And laſtly, for what concernes the manner of the purſuance of this juſt Cauſe and lawfull Calling:
+<pb n="38" facs="tcp:63366:20"/>Although the many fruſtrate Petitions and Remon<g ref="char:EOLhyphen"/>ſtrances from both Kingdoms preſented to his Ma<g ref="char:EOLhyphen"/>jeſty, have left us onley this way, which yet is not intended againſt his Majeſties Perſon, not any of his good Subjects, but thoſe Enemies of the King and Kingdomes, and whom no other meanes can pre<g ref="char:EOLhyphen"/>vailed Yet we ſhall diligently endeavour ſo to or<g ref="char:EOLhyphen"/>der the Affaires of our Army, that all Inſolencies, Rapines, Plunderings, and thoſe other calamities that uſually attend upon Warre, may be prevented. And herein as with no ſmall content to our ſelves, ſo with no leſſe ſatisfaction to you, are we able to refer you to the experience of out former Expedi<g ref="char:EOLhyphen"/>tion (when our own neceſsitie drove us into <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> as now yours do call us) to conſider how little damage was occaſioned by out meanes, how little diſorder was committed by us in any place where we came: And we hereby promiſe the like care and diligence ſhall be renewed, and if poſsible doub<g ref="char:EOLhyphen"/>led to that effect.</p>
+                  <p>And that we may not be looked with the preju<g ref="char:EOLhyphen"/>dice of Strangers, which we hope the firme Union of this mutuall Covenant will weare out, There is a Committee of your owne Nation, the moſt of which are Parliament men, ſuch to whom you have committed the truſt and care of your Religi<g ref="char:EOLhyphen"/>on, Laws and Liberties, joyned with us, without whoſe concurrence nothing that concernes you is
+<pb n="39" facs="tcp:63366:20"/>to be tranſacted. And to free you of all unjuſt ſuſpi<g ref="char:EOLhyphen"/>tion, which if your mindes are not ready to con<g ref="char:EOLhyphen"/>ceive, yet the malicious mouthes of our Adverſaries and yours are ready to ſuggeſt, That notwithſtand<g ref="char:EOLhyphen"/>ing this Declaration, we have ſome ſiniſter and ſe<g ref="char:EOLhyphen"/>cret ends which may prove prejudiciall to your Rights and happineſſe: <hi>Be it hereby made knowne</hi> un<g ref="char:EOLhyphen"/>to you, that we have freely ingaged our ſelves, by an Article of the late Treaty betwixt the Nations, to give the publike Faith of the Kingdome of <hi>Scotland</hi> unto the Kingdome of <hi>England,</hi> that neither our en<g ref="char:EOLhyphen"/>trance into, not continuance in that Kingdome, ſhall be made uſe of to any other ends then expreſſed in the Covenant, and that Treaty ſubſcribed to us by the Commiſſioners of both Kingdomes, which we are reſolved, to the honour of God and of this Na<g ref="char:EOLhyphen"/>tion, to keepe inviolate.</p>
+                  <p>And as our Friends and Brethren may looke for actions conforme to the expreſſions of this Declara<g ref="char:EOLhyphen"/>tion, ſo muſt the Malignants and implacable or<g ref="char:EOLhyphen"/>poſers of the ends declared in our Covenant, ex<g ref="char:EOLhyphen"/>pect nothing but an impartiall and vigorous proſe<g ref="char:EOLhyphen"/>cution of the ſame: In which, if any evill befall them, we are confident that the judgement of wiſe and indifferent men will reduce it to themſelves, as the wilfull Authors thereof.</p>
+                  <p>And finally we declare againſt all falſe and arti<g ref="char:EOLhyphen"/>ficiall relations) that we are ſo farre from deſiring
+<pb n="40" facs="tcp:63366:21" rendition="simple:additions"/>harme or loſſe to any of our Brethren of <hi>England,</hi> that our ſincere and reall intentions are not to adde fuell, not bring oyle, but water to extinguiſh theſe lamen<g ref="char:EOLhyphen"/>table combuſtions and fires, which we have with ſo much duty and love laboured to quench: That our taking of Armes is not to make Wars (if we be not neceſsitated) but to obtaine a better grounded and a more durable Peace, for enjoying of our Reli<g ref="char:EOLhyphen"/>gion and Liberties in all the three Kingdomes: And that the wicked (who are the unworthy authors of all our troubles) being removed from our King, a right underſtanding may be eſtabliſhed betwixt his Majeſty and his people. And as we have ſolemnly ſworn to protect and defend all who ſhall enter in, and adhere to this Covenant: So doe we certainly expect, that all our Brethren in <hi>England,</hi> who are zealous for the true Proteſtant Religion, loyall to the King and faithfull for their Country, will joyne and concurre with us in the moſt noble and juſt wayes of procuring theſe juſt deſires: Which being obtained, we ſhall be moſt willing and ready to re<g ref="char:EOLhyphen"/>turne to our native Country eſteeming it our grea<g ref="char:EOLhyphen"/>teſt happineſſe, that truth with Peace may be eſta<g ref="char:EOLhyphen"/>bliſhed in all His Majeſties Dominions.</p>
+                  <closer>
+                     <signed>Arch Primeroſe.</signed>
+                  </closer>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
